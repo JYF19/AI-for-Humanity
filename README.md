@@ -52,7 +52,7 @@ The research methodology comprised three main stages:
 
 ## QR Code Content
 The original poster included a QR code.
-This QR code originally linked to the AI prompts and generated images for this project. This content is archived and can be provided upon request.[
+This QR code originally linked to the AI prompts and generated images for this project. This content is archived and can be provided upon request.
 
 ---
 
